@@ -39,7 +39,7 @@ function showNotes() {
 
 
                 <div class="card-body">
-                    <h5 class="card-title"><b>${elefment.title}</b></h5>
+                    <h5 class="card-title"><b>${element.title}</b></h5>
 
                     <p class="card-text">${element.text}</p>
 
